@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>com.joantolos.cobertura</groupId>
-  <artifactId>cobertura-poc</artifactId>
+  <artifactId>cobertura</artifactId>
   <packaging>jar</packaging>
   <version>15.1.0-SNAPSHOT</version>
   <name>--- Cobertura -> POC for Java</name>
